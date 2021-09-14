@@ -1,0 +1,33 @@
+INSERT INTO `items` (`name`, `label`, `limit`, `rare`, `can_remove`) VALUES
+	('cocacola', 'Coca Cola', -1, 0, 1),
+	('fanta', 'Fanta Exotic', -1, 0, 1),
+	('sprunk', 'Sprite', -1, 0, 1),
+	('loka', 'Loka Crush', -1, 0, 1),
+	('drpepper', 'DR.pepper', -1, 0, 1),
+	('icetea', 'Ice Tea', -1, 0, 1),
+	('beer', 'Heinken', -1, 0, 1),
+	('vodka', 'Vodka', -1, 0, 1),
+	('whisky', 'Wisky', -1, 0, 1),
+	('sprite', 'Sprite', -1, 0, 1),
+	('fanta', 'Fanta', -1, 0, 1),
+	
+	('cheesebows', 'Feuilletés au fromage', -1, 0, 1),
+	('chips', 'Chips', -1, 0, 1),
+	('chocolate', 'Chocolat', -1, 0, 1),
+	('cupcake', 'Cupcake', -1, 0, 1),
+	('oreo', 'Oréo', -1, 0, 1),
+	
+	('pizza', 'Kebab Pizza', -1, 0, 1),
+	('burger', 'Bacon Burgare', -1, 0, 1),
+	('pastacarbonara', 'Pasta Carbonara', -1, 0, 1),
+	('sandwich', 'Sandwich', -1, 0, 1),
+	('hamburger', 'Hamburger', -1, 0, 1),
+	('pizza', 'Pizza', -1, 0, 1),
+	('pastabox', 'Pasta box', -1, 0, 1),
+	
+	('cigarett', 'Cigarette', -1, 0, 1),
+	('lighter', 'Briquet', -1, 0, 1),
+	('scratchoff', 'Lottery', -1, 0, 1),
+	('drugscales', 'Pèse de détail', -1, 0, 1),
+	('bandage', 'Bandage', -1, 0, 1),
+;
